@@ -1,0 +1,736 @@
+{
+  "status": 200,
+  "data": {
+    "_id": "66d1934fc2b150116e91813e",
+    "copyright": {
+      "content": "© Flamingos Technologies Inc., 2024. All Rights Reserved.",
+      "show": true
+    },
+    "created_at": 1725010767535,
+    "experiences": [
+      {
+        "campaign_id": "66d1934fc2b150116e91813e",
+        "canvas": {
+          "android": 0,
+          "ios": 3000
+        },
+        "created_at": 1725011027452,
+        "id": "66d19453c2b150116e918178",
+        "images": {
+          "color_compressed": "https://zingcam.cdn.flamapp.com/compressed/images/66d19453c2b150116e918178_684022625.jpg",
+          "compressed": "https://zingcam.cdn.flamapp.com/grey/images/66d19453c2b150116e918178_677186929.jpg",
+          "feature_image": "https://zingcam.cdn.flamapp.com/images/6719f4494327ab35200c010f.jpg",
+          "original": "https://zingcam.cdn.flamapp.com/original/images/hxoo601q1ib7l7elb7i6o99d.png",
+          "original_input": "https://zingcam.cdn.flamapp.com/original/images/hxoo601q1ib7l7elb7i6o99d.png"
+        },
+        "is_active": true,
+        "overlay": {
+          "compressed_image": "",
+          "type": "TRANSPARENT",
+          "value": ""
+        },
+        "playback_scale": 1,
+        "qr_panel": {
+          "active": false
+        },
+        "rewards": {
+          "enabled": false
+        },
+        "status": "PROCESSED",
+        "template_category": {
+          "canvas": {
+            "height": 809,
+            "type": "pixels",
+            "width": 1440
+          },
+          "template_group_id": "f6s05jrxdg8z5xbr",
+          "template_id": "v9s9k0kghdbmsizd",
+          "template_name": "Custom"
+        },
+        "template_details": {
+          "credit_type": "PRISM_INTERACTIVE",
+          "name": "Prism Interactive"
+        },
+        "ui_elements": {
+          "banners": {
+            "primary_color": "#ffffff",
+            "redirection_url": "https://www.google.com",
+            "secondary_color": "#007AFF",
+            "sub_title": "asdfasdf",
+            "title": "asdfasdf",
+            "type": "BANNER",
+            "variant": 2
+          },
+          "elements": [
+            {
+              "primary_color": "#ffffff",
+              "redirection_url": "https://www.google.com",
+              "secondary_color": "#007AFF",
+              "sub_title": "asdfasdf",
+              "title": "asdfasdf",
+              "type": "BANNER",
+              "variant": 2
+            },
+            {
+              "bottom_sheet_items": [
+                {
+                  "redirection_url": "https://www.facebook.com",
+                  "sub_title": "asdf",
+                  "title": "asdfasdfasdf"
+                }
+              ],
+              "primary_color": "#ffffff",
+              "secondary_color": "#007AFF",
+              "sub_title": "asdfasd",
+              "title": "sdfasasd",
+              "type": "BOTTOM_SHEET",
+              "variant": 0
+            },
+            {
+              "primary_color": "#ffffff",
+              "secondary_color": "#007AFF",
+              "story_tray_items": [
+                {
+                  "image_url": "https://instant.cdn.flamapis.com/original/images/d2a2y6yol7c53cluzstabc8p.png",
+                  "segment_id": "aab",
+                  "text": "Clip 2",
+                  "type": "SEGMENT"
+                },
+                {
+                  "image_url": "https://instant.cdn.flamapis.com/original/images/w2urv7sexowh1k3aij7sagx9.png",
+                  "segment_id": "aae",
+                  "text": "Clip 5",
+                  "type": "SEGMENT"
+                },
+                {
+                  "image_url": "https://instant.cdn.flamapis.com/original/images/wv40j0uwey5xx4q95mnz33s0.png",
+                  "segment_id": "aaj",
+                  "text": "clip",
+                  "type": "SEGMENT"
+                }
+              ],
+              "type": "STORY_TRAY",
+              "variant": 0
+            }
+          ]
+        },
+        "updated_at": 1756806928156,
+        "variant": {
+          "buttons": [
+            {
+              "id": "xyz",
+              "type": "image",
+              "asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "compressed_asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "color": "#000000",
+              "marker_id": "aaa",
+              "position": {
+                "x": 0.7,
+                "y": 0.6,
+                "z": 0.4
+              },
+              "scale": {
+                "x": 0.2,
+                "y": 0.1
+              },
+              "mask_id": "0"
+            },
+            {
+              "id": "abc",
+              "type": "image",
+              "asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "compressed_asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "color": "#000000",
+              "marker_id": "aab",
+              "position": {
+                "x": 0.4,
+                "y": 0.6,
+                "z": 0.4
+              },
+              "scale": {
+                "x": 0.2,
+                "y": 0.1
+              },
+              "mask_id": "0"
+            },
+            {
+              "id": "def",
+              "type": "image",
+              "asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "compressed_asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "color": "#000000",
+              "marker_id": "whs",
+              "position": {
+                "x": 0.1,
+                "y": 0.6,
+                "z": 0.4
+              },
+              "scale": {
+                "x": 0.2,
+                "y": 0.1
+              },
+              "mask_id": "0"
+            },
+            {
+              "id": "e",
+              "type": "image",
+              "asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "compressed_asset_url": "https://cdn.pixabay.com/photo/2022/10/18/06/57/cat-7529439_1280.jpg",
+              "color": "#000000",
+              "marker_id": "pis",
+              "position": {
+                "x": 1,
+                "y": 0.6,
+                "z": 0.4
+              },
+              "scale": {
+                "x": 0.2,
+                "y": 0.1
+              },
+              "mask_id": "0"
+            }
+          ],
+          "class": 3,
+          "haptic_pattern": "https://instant.cdn.flamapis.com/app/kr1j99/videos/i24bw5c8otljidcqldy3ird2.ahap",
+          "is_alpha": false,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "scale_axis": {
+            "x": 1,
+            "y": 1,
+            "z": 0
+          },
+          "segments": {
+            "back_color": "#ffffff",
+            "default": "aaa",
+            "flush_color": "#000000",
+            "use_stitch_video": "true",
+            "use_segmented_elements": "false",
+            "markers": [
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 25000,
+                "id": "aaa",
+                "multiplier": "",
+                "next": "aab",
+                "redirection_url": "",
+                "stime": 0,
+                "web_redirect": false,
+                "show_elements": [
+                  0
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": true,
+                "color": "",
+                "color_map": "https://instant.cdn.flamapis.com/original/images/rcpge1vyg8r126isl9drmkl1.png",
+                "etime": 34000,
+                "id": "aab",
+                "multiplier": "",
+                "next": "aab",
+                "redirection_url": "",
+                "stime": 25000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1,
+                  2
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "#20F040",
+                "color_map": "",
+                "etime": 73000,
+                "id": "whs",
+                "multiplier": "whs",
+                "next": "aae",
+                "redirection_url": "",
+                "stime": 66500,
+                "web_redirect": false,
+                "show_elements": [
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "#6BB9AB",
+                "color_map": "",
+                "etime": 41000,
+                "id": "pis",
+                "multiplier": "pis",
+                "next": "aae",
+                "redirection_url": "",
+                "stime": 34000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 59000,
+                "id": "aae",
+                "multiplier": "",
+                "next": "aaf",
+                "redirection_url": "",
+                "stime": 41000,
+                "web_redirect": false,
+                "show_elements": [],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": true,
+                "color": "",
+                "color_map": "https://instant.cdn.flamapis.com/original/images/vi62m497v5iz78fffl2awqd1.png",
+                "etime": 66500,
+                "id": "aaf",
+                "multiplier": "",
+                "next": "aaf",
+                "redirection_url": "",
+                "stime": 59000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "#B86B37",
+                "color_map": "",
+                "etime": 199000,
+                "id": "whj",
+                "multiplier": "whj",
+                "next": "aai",
+                "redirection_url": "",
+                "stime": 193000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "#8B9CE4",
+                "color_map": "",
+                "etime": 104000,
+                "id": "grj",
+                "multiplier": "grj",
+                "next": "aai",
+                "redirection_url": "",
+                "stime": 98000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 123000,
+                "id": "aai",
+                "multiplier": "",
+                "next": "aaj",
+                "redirection_url": "",
+                "stime": 104000,
+                "web_redirect": false,
+                "show_elements": [
+                  2
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": true,
+                "color": "",
+                "color_map": "https://instant.cdn.flamapis.com/original/images/sucjhfmhm8ehwcag3ux0w13f.png",
+                "etime": 130000,
+                "id": "aaj",
+                "multiplier": "",
+                "next": "aaj",
+                "redirection_url": "",
+                "stime": 123000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1,
+                  2
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "#D7497B",
+                "color_map": "",
+                "etime": 231000,
+                "id": "brp",
+                "multiplier": "brp",
+                "next": "!final!",
+                "redirection_url": "",
+                "stime": 225000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "#2ae00e",
+                "color_map": "",
+                "etime": 298000,
+                "id": "grp",
+                "multiplier": "grp",
+                "next": "!final!",
+                "redirection_url": "",
+                "stime": 292000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 246000,
+                "id": "pisgrjbrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 231000,
+                "web_redirect": false,
+                "show_elements": [
+                  0
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 269000,
+                "id": "pisgrjgrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 253000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 291000,
+                "id": "piswhjbrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 275000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 313000,
+                "id": "piswhjgrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 297000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 335000,
+                "id": "whsgrjbrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 319000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 358000,
+                "id": "whsgrjgrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 342000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 380000,
+                "id": "whswhjbrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 364000,
+                "web_redirect": false,
+                "show_elements": [],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 402000,
+                "id": "whswhjgrp",
+                "multiplier": "",
+                "next": "baa",
+                "redirection_url": "",
+                "stime": 386000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 416000,
+                "id": "baa",
+                "multiplier": "",
+                "next": "!flush!",
+                "redirection_url": "",
+                "stime": 403000,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              },
+              {
+                "allow_selection": false,
+                "color": "",
+                "color_map": "",
+                "etime": 0,
+                "id": "!flush!",
+                "multiplier": "",
+                "next": "!flush!",
+                "redirection_url": "",
+                "stime": 0,
+                "web_redirect": false,
+                "show_elements": [
+                  0,
+                  1,
+                  2
+                ],
+                "videos": {
+                  "original": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "compressed": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "hls": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                  "dash": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+              }
+            ]
+          },
+          "track_type": "CARD"
+        },
+        "videos": {
+          "compressed": "https://zingcam.cdn.flamapp.com/compressed/videos/66d19453c2b150116e918178_954613997.mp4",
+          "compressed_playback": "https://zingcam.cdn.flamapp.com/compressed/videos/playback/66d19453c2b150116e918178_205703928.mp4",
+          "dash": "https://zingcam.cdn.flamapp.com/stream/66d19453c2b150116e918178_514969718/dash/master.mpd",
+          "hls": "https://zingcam.cdn.flamapp.com/stream/66d19453c2b150116e918178_302818102/hls/master.m3u8",
+          "original": "https://zingcam.cdn.flamapp.com/original/videos/yfuxqw8fdmyfmpy3u8olkz35.mp4",
+          "playback": "https://zingcam.cdn.flamapp.com/original/videos/yfuxqw8fdmyfmpy3u8olkz35.mp4"
+        }
+      }
+    ],
+    "expires_at": null,
+    "feature_flags": {
+      "enable_adaptive_streaming": true,
+      "enable_airboard": false,
+      "enable_android_streaming": true,
+      "enable_auto_play": false,
+      "enable_geo_videos": false,
+      "enable_ios_streaming": true,
+      "enable_nextar": true,
+      "enable_qr_button": false,
+      "enable_recording": false,
+      "enable_screen_capture": true,
+      "enable_video_fullscreen": false
+    },
+    "flam_logo": "https://zingcam.cdn.flamapp.com/gixib4gxg8vsjirl0bxdo27y.png",
+    "golive_at": null,
+    "group_name": "My Old Campaigns",
+    "id": "66d1934fc2b150116e91813e",
+    "logo_width": 1,
+    "name": "NIKE SINGLE WITH Diff VAlues",
+    "publish": false,
+    "scan": {
+      "compressed_image_url": "https://zingcam.cdn.flamapp.com/compressed/images/66d19453c2b150116e918178_107823693.jpg",
+      "image_url": "https://zingcam.cdn.flamapp.com/original/images/hxoo601q1ib7l7elb7i6o99d.png",
+      "scan_text": "SCAN THIS IMAGE"
+    },
+    "short_code": "ji131g",
+    "status": "PROCESSED",
+    "track_type": "CARD",
+    "updated_at": 1758787549051
+  },
+  "error": false
+}
